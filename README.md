@@ -1,4 +1,4 @@
-##A cli tool.
+## A cli tool.
 
 Help u to create a .gitignore file with template
 
