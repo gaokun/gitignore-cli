@@ -1,0 +1,25 @@
+{
+  "name": "ken-gitignore-cli",
+  "version": "1.0.2",
+  "main": "index.js",
+  "bin": {
+    "ignore": "bin/ignore.js"
+  },
+  "keywords": [
+    "gitignore",
+    "ignore"
+  ],
+  "files": [
+    "bin",
+    "gitignore",
+    ".gitignore",
+    "index.js",
+    "package.json",
+    "README.md"
+  ],
+  "author": {
+    "email": "kytogether@vip.qq.com",
+    "name": "Ken"
+  },
+  "license": "MIT"
+}
